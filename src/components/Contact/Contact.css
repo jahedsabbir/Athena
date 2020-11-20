@@ -1,0 +1,25 @@
+
+
+.email-input{
+    border: none !important;
+    background-color: none !important;
+    
+}
+.buttons {
+    background-image: linear-gradient(to right, #1CD7BB, #08AFE9);
+    border: 0 !important;
+    color: white !important;
+    outline: none;
+}
+.contact-form {
+    border: 1px solid white;
+    padding: 5px;
+    box-shadow: 1px 2px 15px lightgray;
+    background-color: white;
+}
+
+@media (max-width: 575.98px) {
+    .contact{
+        margin-top: 150px !important;
+    }
+}
